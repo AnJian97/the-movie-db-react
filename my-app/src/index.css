@@ -1,0 +1,29 @@
+.App .row img{
+    margin-top: 20px;
+}
+
+.body-container button{
+    margin-top: 20px;
+    display: flex;
+    justify-content: right;
+    float: right ;
+    right: 30px;
+    
+}
+
+.body-container a{
+    margin-top: 20px;
+    font-size: 50px;
+    display: flex;
+    float: left;
+    color: black;
+    padding: 10px;
+}
+
+.container .row form {
+    margin-top: 100px;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    font-size: 40px;
+}
